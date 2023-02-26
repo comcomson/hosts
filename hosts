@@ -1,0 +1,316 @@
+# Title: StevenBlack/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 27 February 2023 04:36:06 (UTC)
+# Number of unique domains: 
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/comcomson/hosts/master/hosts
+# Project home page: https://github.com/comcomson/hosts
+# Project releases: https://github.com/comcomson/hosts/releases
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start Comson's Hosts
+
+#=====================================
+# Title: Hosts contributed by Comson Or
+# http://stevenblack.com
+
+# [appier.net]
+127.0.0.1 ad.appier.net
+127.0.0.1 ad2.apx.appier.net
+127.0.0.1 ad3.apx.appier.net
+127.0.0.1 a.c.appier.net
+127.0.0.1 aiqua-config.c.appier.net
+127.0.0.1 aiqua-sdk.c.appier.net
+127.0.0.1 aiqua-user.c.appier.net
+127.0.0.1 anylist.c.appier.net
+127.0.0.1 apn.c.appier.net
+127.0.0.1 arm.c.appier.net
+127.0.0.1 c.c.appier.net
+127.0.0.1 g.c.appier.net
+127.0.0.1 gocm.c.appier.net
+127.0.0.1 rcp.c.appier.net
+127.0.0.1 s.c.appier.net
+127.0.0.1 sg.c.appier.net
+127.0.0.1 ss.c.appier.net
+127.0.0.1 t0.c.appier.net
+127.0.0.1 tw.c.appier.net
+127.0.0.1 vst.c.appier.net
+127.0.0.1 xx.c.appier.net
+127.0.0.1 jscdn.appier.net
+127.0.0.1 web0.track.appier.net
+
+# [googlesyndication.com]
+127.0.0.1 googlesyndication.com
+127.0.0.1 ade.googlesyndication.com
+127.0.0.1 pagead.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com
+
+# [yahoo.com]
+127.0.0.1 3p-geo.yahoo.com
+127.0.0.1 3p-udc.yahoo.com
+127.0.0.1 ads.yahoo.com
+127.0.0.1 api.ads.yahoo.com
+127.0.0.1 adserver.yahoo.com
+127.0.0.1 global.adserver.yahoo.com
+127.0.0.1 us.adserver.yahoo.com
+127.0.0.1 adspecs.yahoo.com
+127.0.0.1 latam.adspecs.yahoo.com
+127.0.0.1 ush.adspecs.yahoo.com
+127.0.0.1 advertising.yahoo.com
+127.0.0.1 sea.advertising.yahoo.com
+127.0.0.1 analytics.yahoo.com
+127.0.0.1 cms.analytics.yahoo.com
+127.0.0.1 opus.analytics.yahoo.com
+127.0.0.1 sp.analytics.yahoo.com
+127.0.0.1 ups.analytics.yahoo.com
+127.0.0.1 beap-bc.yahoo.com
+127.0.0.1 comet.yahoo.com
+127.0.0.1 fc.yahoo.com
+127.0.0.1 ganon.yahoo.com
+127.0.0.1 gemini.yahoo.com
+127.0.0.1 beap.gemini.yahoo.com
+127.0.0.1 geo.yahoo.com
+127.0.0.1 marketingsolutions.yahoo.com
+127.0.0.1 pclick.yahoo.com
+127.0.0.1 analytics.query.yahoo.com
+127.0.0.1 geo.query.yahoo.com
+127.0.0.1 onepush.query.yahoo.com
+127.0.0.1 app.ssp.yahoo.com
+127.0.0.1 bats.video.yahoo.com
+127.0.0.1 visit.webhosting.yahoo.com
+127.0.0.1 ads.yap.yahoo.com
+127.0.0.1 m.yap.yahoo.com
+127.0.0.1 pr-bh.ybp.yahoo.com
+127.0.0.1 partnerads.ysm.yahoo.com
+127.0.0.1 c2shb.pubgw.yahoo.com
+
+# [google.com]
+127.0.0.1 ads.google.com
+127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.com.hk
+127.0.0.1 s0-2mdn-net.l.google.com
+
+# [googleadservices.com]
+127.0.0.1 googleadservices.com
+127.0.0.1 pagead2.googleadservices.com
+
+# [googleapis.com]
+127.0.0.1 device‑provisioning.googleapis.com
+
+# [lihkg.com]
+127.0.0.1 adv.lihkg.com
+
+# [adsmoloco.com]
+127.0.0.1 adsmoloco.com
+127.0.0.1 bidfnt-asia.adsmoloco.com
+127.0.0.1 cdn-f.adsmoloco.com
+127.0.0.1 tr-asia.adsmoloco.com
+127.0.0.1 tr-eu.adsmoloco.com
+127.0.0.1 tr-us.adsmoloco.com
+
+# [media.net]
+127.0.0.1 abd.media.net
+127.0.0.1 adservetx.media.net
+127.0.0.1 adservex.media.net
+127.0.0.1 amprtc.media.net
+127.0.0.1 cdnaimg-ra.media.net
+127.0.0.1 contextual.media.net
+127.0.0.1 cs.media.net
+127.0.0.1 forbes.media.net
+127.0.0.1 hblg.media.net
+127.0.0.1 hbx.media.net
+127.0.0.1 lg3.media.net
+127.0.0.1 mycdn.media.net
+127.0.0.1 prebid.media.net
+127.0.0.1 qsearch.media.net
+127.0.0.1 recommends.media.net# [criteo.com]
+127.0.0.1 criteo.com
+127.0.0.1 as.criteo.com
+127.0.0.1 ads.as.criteo.com
+127.0.0.1 cas.as.criteo.com
+127.0.0.1 dis.as.criteo.com
+127.0.0.1 hk.as.criteo.com
+127.0.0.1 cat.hk.as.criteo.com
+127.0.0.1 gbc0.hk.as.criteo.com
+127.0.0.1 gbc1.hk.as.criteo.com
+127.0.0.1 gbc2.hk.as.criteo.com
+127.0.0.1 gbc3.hk.as.criteo.com
+127.0.0.1 gbc4.hk.as.criteo.com
+127.0.0.1 gbc5.hk.as.criteo.com
+127.0.0.1 gbc6.hk.as.criteo.com
+127.0.0.1 gbc7.hk.as.criteo.com
+127.0.0.1 gbc8.hk.as.criteo.com
+127.0.0.1 rtb.hk.as.criteo.com
+127.0.0.1 widget.hk.as.criteo.com
+127.0.0.1 privacy.as.criteo.com
+127.0.0.1 rdi.as.criteo.com
+127.0.0.1 widget.as.criteo.com
+127.0.0.1 b.criteo.com
+127.0.0.1 bidder.criteo.com
+127.0.0.1 cat.criteo.com
+127.0.0.1 dis.criteo.com
+127.0.0.1 dynamic.criteo.com
+127.0.0.1 ebs.criteo.com
+127.0.0.1 eu.criteo.com
+127.0.0.1 ads.eu.criteo.com
+127.0.0.1 cas.eu.criteo.com
+127.0.0.1 d.eu.criteo.com
+127.0.0.1 fr.eu.criteo.com
+127.0.0.1 cat.fr.eu.criteo.com
+127.0.0.1 rat.fr.eu.criteo.com
+127.0.0.1 widget.fr.eu.criteo.com
+127.0.0.1 nl.eu.criteo.com
+127.0.0.1 cat.nl.eu.criteo.com
+127.0.0.1 rat.nl.eu.criteo.com
+127.0.0.1 widget.nl.eu.criteo.com
+127.0.0.1 widget.eu.criteo.com
+127.0.0.1 gbc.criteo.com
+127.0.0.1 ag.gbc.criteo.com
+127.0.0.1 gem.gbc.criteo.com
+127.0.0.1 gum.criteo.com
+127.0.0.1 marketing.criteo.com
+127.0.0.1 mug.criteo.com
+127.0.0.1 prod.criteo.com
+127.0.0.1 vip.prod.criteo.com
+127.0.0.1 am5.vip.prod.criteo.com
+127.0.0.1 widget.am5.vip.prod.criteo.com
+127.0.0.1 da1.vip.prod.criteo.com
+127.0.0.1 bidder.da1.vip.prod.criteo.com
+127.0.0.1 cat.da1.vip.prod.criteo.com
+127.0.0.1 cbsd.da1.vip.prod.criteo.com
+127.0.0.1 dynamic.da1.vip.prod.criteo.com
+127.0.0.1 gum.da1.vip.prod.criteo.com
+127.0.0.1 mug.da1.vip.prod.criteo.com
+127.0.0.1 rdi.da1.vip.prod.criteo.com
+127.0.0.1 widget.da1.vip.prod.criteo.com
+127.0.0.1 hk5.vip.prod.criteo.com
+127.0.0.1 bidder.hk5.vip.prod.criteo.com
+127.0.0.1 cas.hk5.vip.prod.criteo.com
+127.0.0.1 cat.hk5.vip.prod.criteo.com
+127.0.0.1 gum.hk5.vip.prod.criteo.com
+127.0.0.1 mug.hk5.vip.prod.criteo.com
+127.0.0.1 rdi.hk5.vip.prod.criteo.com
+127.0.0.1 rtax.hk5.vip.prod.criteo.com
+127.0.0.1 widget.hk5.vip.prod.criteo.com
+127.0.0.1 par.vip.prod.criteo.com
+127.0.0.1 widget.par.vip.prod.criteo.com
+127.0.0.1 va1.vip.prod.criteo.com
+127.0.0.1 bidder.va1.vip.prod.criteo.com
+127.0.0.1 cat.va1.vip.prod.criteo.com
+127.0.0.1 gum.va1.vip.prod.criteo.com
+127.0.0.1 widget.va1.vip.prod.criteo.com
+127.0.0.1 pub-sdk-cfg.criteo.com
+127.0.0.1 sslwidget.criteo.com
+127.0.0.1 static.criteo.com
+127.0.0.1 us.criteo.com
+127.0.0.1 ads.us.criteo.com
+127.0.0.1 d.us.criteo.com
+127.0.0.1 da.us.criteo.com
+127.0.0.1 cat.da.us.criteo.com
+127.0.0.1 gbc0.da.us.criteo.com
+127.0.0.1 gbc1.da.us.criteo.com
+127.0.0.1 gbc2.da.us.criteo.com
+127.0.0.1 gbc3.da.us.criteo.com
+127.0.0.1 gbc4.da.us.criteo.com
+127.0.0.1 gbc5.da.us.criteo.com
+127.0.0.1 gbc6.da.us.criteo.com
+127.0.0.1 gbc7.da.us.criteo.com
+127.0.0.1 gbc8.da.us.criteo.com
+127.0.0.1 rtb.da.us.criteo.com
+127.0.0.1 widget.da.us.criteo.com
+127.0.0.1 dis.us.criteo.com
+127.0.0.1 privacy.us.criteo.com
+127.0.0.1 rdi.us.criteo.com
+127.0.0.1 va.us.criteo.com
+127.0.0.1 cat.va.us.criteo.com
+127.0.0.1 rtb.va.us.criteo.com
+127.0.0.1 widget.va.us.criteo.com
+127.0.0.1 widget.us.criteo.com
+
+# [inmobi.com]
+127.0.0.1 ads.inmobi.com
+127.0.0.1 appgwv2.inmobi.com
+127.0.0.1 eastus-ssp.appgwv2.inmobi.com
+127.0.0.1 config.eastus-ssp.appgwv2.inmobi.com
+127.0.0.1 vastproxy.brand.inmobi.com
+127.0.0.1 config.inmobi.com
+127.0.0.1 config-ltvp.inmobi.com
+127.0.0.1 de.inmobi.com
+127.0.0.1 b.de.inmobi.com
+127.0.0.1 e.de.inmobi.com
+127.0.0.1 ic.de.inmobi.com
+127.0.0.1 glance.inmobi.com
+127.0.0.1 analytics.glance.inmobi.com
+127.0.0.1 id.analytics.glance.inmobi.com
+127.0.0.1 in.analytics.glance.inmobi.com
+127.0.0.1 api.glance.inmobi.com
+127.0.0.1 id.api.glance.inmobi.com
+127.0.0.1 in.api.glance.inmobi.com
+127.0.0.1 glance-internal.inmobi.com
+127.0.0.1 analytics-prod2.glance-internal.inmobi.com
+127.0.0.1 content-prod3.glance-internal.inmobi.com
+127.0.0.1 s.iff.inmobi.com
+127.0.0.1 dspbeacons.error.ihasdsp.inmobi.com
+127.0.0.1 imces.inmobi.com
+127.0.0.1 mcg-ads.inmobi.com
+127.0.0.1 pulse.inmobi.com
+127.0.0.1 carpet.pulse.inmobi.com
+127.0.0.1 sdk.inmobi.com
+127.0.0.1 telemetry.sdk.inmobi.com
+127.0.0.1 ssp-prod-telemerty-eastus-appgwv2.inmobi.com
+127.0.0.1 trafficmanager.inmobi.com
+127.0.0.1 eastus.trafficmanager.inmobi.com
+127.0.0.1 nonmutt.eastus.trafficmanager.inmobi.com
+127.0.0.1 w.eastus.trafficmanager.inmobi.com
+127.0.0.1 et.w.eastus.trafficmanager.inmobi.com
+127.0.0.1 sgp.trafficmanager.inmobi.com
+127.0.0.1 nonmutt.sgp.trafficmanager.inmobi.com
+127.0.0.1 imces.dfw1.vip.inmobi.com
+127.0.0.1 w.inmobi.com
+127.0.0.1 api.w.inmobi.com
+127.0.0.1 au.w.inmobi.com
+127.0.0.1 c-eus.w.inmobi.com
+127.0.0.1 et.w.inmobi.com
+127.0.0.1 et-eus.w.inmobi.com
+127.0.0.1 i.w.inmobi.com
+127.0.0.1 js.w.inmobi.com
+127.0.0.1 sdkm.w.inmobi.com
+127.0.0.1 sdktm.w.inmobi.com
+127.0.0.1 vast.w.inmobi.com
+127.0.0.1 res.media.net
+127.0.0.1 search.media.net
+127.0.0.1 static.media.net
+127.0.0.1 warp.media.net
+127.0.0.1 whitelabel.media.net
+
+# [bidswitch.net]
+0.0.0.0 gce-or.bidswitch.net
+0.0.0.0 gce-sc.bidswitch.net
+0.0.0.0 ghent-gce-sc.bidswitch.net
+0.0.0.0 grid.bidswitch.net
+0.0.0.0 us-east-sync.bidswitch.net
+0.0.0.0 x.bidswitch.net
